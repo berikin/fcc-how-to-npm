@@ -1,0 +1,23 @@
+{
+  "name": "@berikin/fcc-how-to-npm",
+  "version": "1.0.0",
+  "description": "Free Code Camp How To NPM tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "fcc",
+    "free-code-camp",
+    "how-to-npm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/berikin/fcc-how-to-npm.git"
+  },
+  "author": "berikin",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
